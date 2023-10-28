@@ -23,3 +23,7 @@ Some factors to consider in choosing a license:
 - Does meeting an open access requirement matter? Some open licenses comply with open access mandates.
 
 There are pros and cons to each option, so consider your specific goals and preferences. But traditional copyright or a Creative Commons license tend to be suitable for most book authors. Let me know if you need any clarification or have additional questions!
+
+## ChatGPT 3.5 Answer, 20231028
+
+Choosing the right license for your book depends on what you want to allow others to do with your work. If you want to retain strict control and only permit reading, you might go for a traditional copyright. If you're more open to sharing and collaboration, a Creative Commons license could be a good fit. What are you leaning towards?
