@@ -1,2 +1,3 @@
-# dawnstar-manifesto
+# DawnStar* Manifesto
+
 blah blah blah
