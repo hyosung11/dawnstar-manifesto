@@ -11,6 +11,22 @@
 - With a book proposal, you may not need to write an entire book to obtain a publishing contract.
 - With a book proposal, you can have a contract and a relationship with an editor who will help you develop a book that is better suited for the marketplace.
 
+### The Contents of a Proposal
+
+1. What your book is about.
+2. Why it should exist.
+3. Why you should be the one to write it.
+
+Additional Questions
+
+1. Who are you and why are you writing this book?
+2. Is there a market for the book?
+3. What are the complementary or competitive titles already on the shelves?
+4. How are you reach the market?
+5. What is your existing platform, or traditional and online, they can support the book?
+6. What are your plans to promote the book?
+7. Do you have any special endorsements?
+
 ## Section 1 - All aspects of the proposal and some advice thrown in
 
 ## Chapter 1 - Birth of an Idea
