@@ -27,6 +27,31 @@ Additional Questions
 6. What are your plans to promote the book?
 7. Do you have any special endorsements?
 
+Prescribed Format Elements
+
+1. Title Page
+2. Table of Contents of the Proposal
+3. Overview
+4. About the Author
+5. Table of Contents of the Book (optional placement)
+6. Complementary and Competitive Titles
+7. Markets
+8. Platform
+9. Promotions
+10. Table of Contents of the Book
+11. Chapter Outline
+12. Sample Chapters
+13. Collateral Attachments (optional as an addendum to author background)
+14. Electronic Media Kit (optional)
+
+### How to use this book
+
+- helpful for writers to see book proposals that really worked
+- samples clearly reveal each documents's successes and failures, no need to reinvent the wheel
+- see proposals that have succeeded
+- join the social network for writers, agents, and editors at <www.WAENetwork.com>
+- <www.jeffherman.com>
+
 ## Section 1 - All aspects of the proposal and some advice thrown in
 
 ## Chapter 1 - Birth of an Idea
