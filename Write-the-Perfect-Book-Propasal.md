@@ -2,6 +2,15 @@
 
 ## Introduction
 
+### Why is it important to write a book proposal?
+
+- A book proposal is like a business plan that entices the potential investor (the publisher) to part with their cash.
+- We have discovered a format for book proposals that we believe works very well.
+- The book proposal anticipates the questions agents and editors will be asking themselves while evaluating the marketability of the book.
+- The first consideration is whether the book has an audience of people who will read it.
+- With a book proposal, you may not need to write an entire book to obtain a publishing contract.
+- With a book proposal, you can have a contract and a relationship with an editor who will help you develop a book that is better suited for the marketplace.
+
 ## Section 1 - All aspects of the proposal and some advice thrown in
 
 ## Chapter 1 - Birth of an Idea
