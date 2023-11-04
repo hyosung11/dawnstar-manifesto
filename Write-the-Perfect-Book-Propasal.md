@@ -62,7 +62,27 @@ Prescribed Format Elements
 - must have commercial appeal
 - research what has already been successfully published as a reliable way to test-market the viability of your idea
 - the proposal is your blueprint to show not only your talent, but that your work can please the market please in order to sustain itself
-- 
+
+### Zeroing Questions
+
+1. What are you most passionate about sharing?
+2. Do you understand your motives?
+3. Are you looking to grow a business, get noticed, achieve self-healing, have fun, make money, and/or contribute to others?
+4. What do you have to say that others will care about, and why?
+5. What do you enjoy thinking? (daydreaming) about?
+6. What do you tend to worry about with regard to yourself and others?
+7. What do you like talking about?
+8. What do you actually know about?
+9. What do you do at work?
+10. What do you do for leisure question?
+11. What have you experienced in your life that most resonate?
+
+### Comments
+
+- self-evaluate to find the topic and message that is most suited to your goals
+- refine your intentions to achieve clarity in your work
+- the more you ask yourself why you are really writing a book and what is going to be in it for the reader, the better off you will be.
+- You need a strong, well developed core idea to sustain the book proposal
 
 ## Chapter 2 - Choosing the Title
 
