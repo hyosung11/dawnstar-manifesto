@@ -22,8 +22,8 @@ Additional Questions
 1. Who are you and why are you writing this book?
 2. Is there a market for the book?
 3. What are the complementary or competitive titles already on the shelves?
-4. How are you reach the market?
-5. What is your existing platform, or traditional and online, they can support the book?
+4. How will you reach the market?
+5. What is your existing platform, both traditional and online, that can support the book?
 6. What are your plans to promote the book?
 7. Do you have any special endorsements?
 
@@ -55,6 +55,14 @@ Prescribed Format Elements
 ## Section 1 - All aspects of the proposal and some advice thrown in
 
 ## Chapter 1 - Birth of an Idea
+
+- You must know what you want to write about.
+- clarity
+- what is in our hearts tend to be more interesting and revealing than what is in our heads
+- must have commercial appeal
+- research what has already been successfully published as a reliable way to test-market the viability of your idea
+- the proposal is your blueprint to show not only your talent, but that your work can please the market please in order to sustain itself
+- 
 
 ## Chapter 2 - Choosing the Title
 
