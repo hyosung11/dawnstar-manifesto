@@ -1,4 +1,4 @@
-# Book Proposal Outlines
+# AI Book Proposal Outlines
 
 ## 1. Claude's Version, 20231028
 
