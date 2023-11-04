@@ -82,7 +82,29 @@ Prescribed Format Elements
 - self-evaluate to find the topic and message that is most suited to your goals
 - refine your intentions to achieve clarity in your work
 - the more you ask yourself why you are really writing a book and what is going to be in it for the reader, the better off you will be.
-- You need a strong, well developed core idea to sustain the book proposal
+- You need a strong, well developed **core idea** to sustain the book proposal
+  - called a logline in films
+
+### Core Idea
+
+- The core idea is the synthesized essence of the book that can be told in one or two lines
+- What is the book about?
+- What is happening and how will the reader be changed by reading your work?
+- What is the takeaway?
+- What is the reason for this book's existence?
+
+### Master the Protocols of Publishing
+
+- Your voice is your own
+- trends come and go
+- anything you write, if it has your own spin, can be successful if you learn to master the protocols of publishing
+
+### Core Idea Exercise
+
+- A good core statement about your book can be boiled down to less than ten concise words.
+- These words should be as intuitive, self-evident, and fetching as a good conversation with a like-minded person.
+- old-fashioned word of mouth is what sustains sales
+- Your concepts have to be packaged for easy and compelling conversation and comprehension.
 
 ## Chapter 2 - Choosing the Title
 
