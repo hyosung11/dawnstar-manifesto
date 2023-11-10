@@ -108,6 +108,21 @@ Prescribed Format Elements
 
 ## Chapter 2 - Choosing the Title
 
+### Choosing a good title
+
+Reasons to choose a good title:
+
+1. A good title will *attract* interest of a potential publisher or agent.
+2. It is difficult to choose a good title, so it will force you to really focus on the core message of your book, thus causing you to thoroughly plan your perfect book proposal.
+3. Your great title becomes the trunk of the tree of a book proposal that you are growing. Every time you veer off your path, you will envision your tree with the title you have carefully selected, and it will lead you safely back to center.
+4. Having a good title will get your foot in the door, and the rest of the proposal will make sure you are invited inside for a cup of tea.
+
+### Selecting a good title
+
+### Some examples
+
+### How to create a good title
+
 ## Chapter 3 - What's a Book Proposal?
 
 ## Chapter 4 - How Are Proposals Structured?
