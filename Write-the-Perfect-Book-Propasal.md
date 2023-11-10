@@ -117,6 +117,12 @@ Reasons to choose a good title:
 3. Your great title becomes the trunk of the tree of a book proposal that you are growing. Every time you veer off your path, you will envision your tree with the title you have carefully selected, and it will lead you safely back to center.
 4. Having a good title will get your foot in the door, and the rest of the proposal will make sure you are invited inside for a cup of tea.
 
+Bad title: *Whose turn is it to push the Volkswagen?*
+
+- well-thought out commercial self-help business book
+- author had superb credentials
+- powerful self-marketing resources
+
 ### Selecting a good title
 
 ### Some examples
