@@ -135,6 +135,13 @@ Bad title: *Whose turn is it to push the Volkswagen?*
 
 #### What do you know about titles
 
+1. They are clear.
+2. They make it clear what the book is about.
+3. Sacrifice the "jazzy" factor for blandness if it means clarity.
+4. Balance bland clarity with an effort to be clever.
+
+Balance what reader needs with what they want. Spend extra energy on getting a good title. Don't rush this part. Make this part of the good things you are doing for yourself to increase the possibility of a successful sale.
+
 ### Some examples
 
 ### How to create a good title
