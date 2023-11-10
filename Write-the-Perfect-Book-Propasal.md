@@ -125,6 +125,16 @@ Bad title: *Whose turn is it to push the Volkswagen?*
 
 ### Selecting a good title
 
+- do no harm, take titles seriously
+- how does it make the reader feel
+- choose a title that intrigues without confusion
+- make it easy on your potential benefactor
+  - use the title as a fishing lure
+- readers choose a book that conveys clearly what is in it for them.
+- WIIFM factor must be clear, your title is the first opportunity to convey this
+
+#### What do you know about titles
+
 ### Some examples
 
 ### How to create a good title
