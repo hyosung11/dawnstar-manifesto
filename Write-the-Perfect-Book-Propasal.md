@@ -164,6 +164,13 @@ Balance what reader needs with what they want. Spend extra energy on getting a g
 
 ### How to create a good title
 
+- title creation is part of the fun
+- making the title gives you more ownership of your own process
+- humans think in terms of pictures, and are dominated by feelings.
+- *Thinner thighs in 30 days*
+- *Wealth without Risk*
+- a great title promises what everybody wants
+
 ## Chapter 3 - What's a Book Proposal?
 
 ## Chapter 4 - How Are Proposals Structured?
