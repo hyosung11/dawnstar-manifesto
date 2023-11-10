@@ -144,6 +144,24 @@ Balance what reader needs with what they want. Spend extra energy on getting a g
 
 ### Some examples
 
+*Never on Weekends* versus *Double Your Sales Without Ever Having to Work on Weekends*
+
+- titles create visceral reactions
+- titles create feelings and also expectations
+
+#### What to Learn about Titles
+
+1. Titles need to be simple and understandable.
+2. Titles can conjure images and create visceral reactions that will spell the difference between a sale and a rejection.
+3. Make sure the title is a reflection of the promises you will fulfill in your book.
+
+- A reader, agent, or editor will grab the book to which they can most readily relate.
+- Use your business acumen when selecting your title, so you do not miss out on consideration.
+- Everything will fall into place with the right title, and a clear structure.
+- Combine marketing psychology, and common sense when making your title.
+- Understand what touches people on a gut level.
+- Your book is a product, so you need to give it a name or title that will garner some attention.
+
 ### How to create a good title
 
 ## Chapter 3 - What's a Book Proposal?
