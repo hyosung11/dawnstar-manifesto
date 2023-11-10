@@ -4,7 +4,7 @@
 
 The DawnStar* Manifesto prescribes living a brilliant life through a calm mind, a fit body, a loving family, and a caring family.
 
-- is a book of letters from a father to his children about th
+- is a book of letters from a father to his children about
 
 ## Core Idea
 
