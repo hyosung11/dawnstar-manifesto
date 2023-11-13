@@ -31,3 +31,6 @@ Ryan Holiday
 Robert Greene
 Audre Lorde
 Suzanne Connolly
+Jocko Willink
+David Goggins
+
