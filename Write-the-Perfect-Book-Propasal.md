@@ -83,7 +83,7 @@ Prescribed Format Elements
 - refine your intentions to achieve clarity in your work
 - the more you ask yourself why you are really writing a book and what is going to be in it for the reader, the better off you will be.
 - You need a strong, well developed **core idea** to sustain the book proposal
-  - called a logline in films
+  - called a **logline** in films
 
 ### Core Idea
 
