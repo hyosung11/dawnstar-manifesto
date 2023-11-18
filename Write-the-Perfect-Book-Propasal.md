@@ -176,6 +176,17 @@ Balance what reader needs with what they want. Spend extra energy on getting a g
 - fiction writers required to finish the manuscript before pitching because fiction writing is considered much more fragile and unreliable than nonfiction writing
 - nonfiction tends to be reliably consistent
 
+### Who is the proposal for?
+
+- the writer to help focus and to write a better book
+- the buyers
+  - agent
+  - editor
+- the better the proposal, the better your contract terms are likely to be
+
+### What does a proposal look like?
+
+
 ## Chapter 4 - How Are Proposals Structured?
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
