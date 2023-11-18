@@ -202,6 +202,21 @@ Get the gatekeeper to say yes.
 
 *People are dominated by feelings first, intellect second, if at all.* The human mind demands to be entertained, romanced, and seduced, or it become sullen, depressed, and unmotivated.
 
+### How long does it take to write a proposal?
+
+- memoir or narrative
+  - judged on the quality of the writing
+  - requires an expansive outline and at least one full chapter
+
+- basic how-to-book
+  - relies on quality and organization of the prescriptive information
+  - brief outline can be sufficient, especially if the author has a successful publishing record
+
+- The first time you write a proposal can consume twenty to forty hours.
+  - use the proposal as an opportunity to defrag your mind
+  - gift yourself with enough time to do it right
+  - But, anything can be excellent and nothing can be perfect
+
 ## Chapter 4 - How Are Proposals Structured?
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
