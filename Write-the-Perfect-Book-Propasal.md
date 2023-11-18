@@ -186,6 +186,21 @@ Balance what reader needs with what they want. Spend extra energy on getting a g
 
 ### What does a proposal look like?
 
+- an extended sales brochure
+  - attracts interest
+  - answers questions
+  - makes people want to close a deal with you
+
+- Content is king and queen, but style and aesthetics are powerful princes and princesses.
+  - make the proposal pleasing to look at and easy to read
+    - readability
+      - spacing
+      - short paragraphs
+      - clear sections
+
+Get the gatekeeper to say yes.
+
+*People are dominated by feelings first, intellect second, if at all.* The human mind demands to be entertained, romanced, and seduced, or it become sullen, depressed, and unmotivated.
 
 ## Chapter 4 - How Are Proposals Structured?
 
