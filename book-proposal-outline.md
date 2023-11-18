@@ -33,4 +33,3 @@ Audre Lorde
 Suzanne Connolly
 Jocko Willink
 David Goggins
-

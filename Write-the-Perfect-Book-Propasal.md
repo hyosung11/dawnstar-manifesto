@@ -173,6 +173,9 @@ Balance what reader needs with what they want. Spend extra energy on getting a g
 
 ## Chapter 3 - What's a Book Proposal?
 
+- fiction writers required to finish the manuscript before pitching because fiction writing is considered much more fragile and unreliable than nonfiction writing
+- nonfiction tends to be reliably consistent
+
 ## Chapter 4 - How Are Proposals Structured?
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
