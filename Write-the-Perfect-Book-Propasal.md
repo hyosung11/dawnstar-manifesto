@@ -217,7 +217,25 @@ Get the gatekeeper to say yes.
   - gift yourself with enough time to do it right
   - But, anything can be excellent and nothing can be perfect
 
+### Are there different kinds of proposals?
+
+Yes. See section notes for more info.
+
+### Can I skip the proposal and just write the manuscript?
+
+Yes, but agents and editors will still want to see a proposal.
+
+### Is there only one way to write a proposal?
+
+- the usual way is the safest way
+- decision-making process follows a fixed structure, and the proposal template exists to match the structure
+- create organized content
+- break up sections with headings and subheadings
+  - allow the reader to digest your proposal in easy bites
+
 ## Chapter 4 - How Are Proposals Structured?
+
+RTR
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
 
