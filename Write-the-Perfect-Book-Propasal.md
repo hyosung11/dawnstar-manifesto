@@ -297,7 +297,12 @@ Yes, but agents and editors will still want to see a proposal.
   - old-fashioned fascinating stories that people want to talk about with each other
 - if your book falls into this category show how it will create a spontaneous platform
 
+- without a platform, consider building a platform before pitching or self-publishing your book
+  - read a book about how to build a platform
+
 ### Section 4: Author Marketing Plan
+
+RTR
 
 ### Section 5: Who Is the Book for (The Market)?
 
