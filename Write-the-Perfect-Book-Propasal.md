@@ -235,7 +235,10 @@ Yes, but agents and editors will still want to see a proposal.
 
 ## Chapter 4 - How Are Proposals Structured?
 
-RTR
+- book proposal is a tool of the trade for nonfiction authors
+- need to conform to this publishing protocol
+- a nonfiction book has to have strong content to be seriously considered by publishers and literary agents
+- like a business plan that entices the potential investor (i.e., the publisher) to part with their cash
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
 
