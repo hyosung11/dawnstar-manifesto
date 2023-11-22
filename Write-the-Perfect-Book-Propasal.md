@@ -251,6 +251,23 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 2: About the Author
 
+- think laudatory press release
+  - impressive facts about your professional and personal credentials
+  - achievements
+  - experiences
+  - education
+  - special honors
+  - etc.
+  - conclude with personal details to demonstrate that you're a well-rounded person
+- consider stand-alone addendum - "About the Author Addendum"
+  - resume
+  - CV
+  - list of published articles
+  - professional brochure
+  - links to sites and videos
+
+
+
 ### Section 3: Author Platform
 
 ### Section 4: Author Marketing Plan
