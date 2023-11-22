@@ -266,9 +266,36 @@ Yes, but agents and editors will still want to see a proposal.
   - professional brochure
   - links to sites and videos
 
-
-
 ### Section 3: Author Platform
+
+- need to provide your own platform
+- *How will enough people find out about your book in ways that both cause them to buy it and tell others about it?*
+- what is your brand or online footprint?
+- You need to introduce yourself to publishers as a neo-celebrity within the specific tribes relevant to your proposed book.
+
+- with a busy and noisy internet, how are you going to get attention?
+- Revenue precedes quality, author platform precedes content. Period!
+
+- Publishers need to leverage the author's marketing infrastructure, resources, and skills for the purpose of selling copies.
+  - Publishers provide many benefits, but selling and marketing tend to be their most anemic skill-set.
+- Bottom Line
+  1. Publishers need the author to provide all content.
+  2. Publishers need the author to  ring the resources (platform) upon which the marketing will happen.
+
+- Platform metrics
+  - social media networks
+  - media visibility
+  - speaking events
+  - public appearances
+  - What happens when your name is googled?
+
+- You don't have to be famous, but you need to be a recognized "brand" within the communities of potential customers relevant to your book's subject.
+
+- "Instant" Platforms
+  - true crime
+  - newsworthy narratives and memoirs
+  - old-fashioned fascinating stories that people want to talk about with each other
+- if your book falls into this category show how it will create a spontaneous platform
 
 ### Section 4: Author Marketing Plan
 
