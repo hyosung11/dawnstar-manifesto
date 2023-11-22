@@ -243,6 +243,12 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 1: The Overview
 
+1. The overview needs to be an abundantly clear and precise statement about your **vision** for the book.
+2. Agents and editors should be able to easily and quickly understand what your proposed work will be about on the basis of your overview.
+3. Imagine you have only 30 seconds to describe your book, so condense your description down to its most revealing and magnetic aspects.
+4. The overview serves as a seductive invitation to read the entire proposal.
+5. Make the overview short and sweet.
+
 ### Section 2: About the Author
 
 ### Section 3: Author Platform
