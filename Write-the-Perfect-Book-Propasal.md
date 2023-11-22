@@ -239,6 +239,25 @@ Yes, but agents and editors will still want to see a proposal.
 - need to conform to this publishing protocol
 - a nonfiction book has to have strong content to be seriously considered by publishers and literary agents
 - like a business plan that entices the potential investor (i.e., the publisher) to part with their cash
+- begin with an "Overview" section and end with the "Chapter Outline" or "Sample Chapter(s)"
+
+### Section 1: The Overview
+
+### Section 2: About the Author
+
+### Section 3: Author Platform
+
+### Section 4: Author Marketing Plan
+
+### Section 5: Who Is the Book for (The Market)?
+
+### Section 6: The Competition
+
+### Section 7: Optional Sections
+
+### Section 8: Chapter Outline
+
+### Section 9: Sample Chapter(s)
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
 
