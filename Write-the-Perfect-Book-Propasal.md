@@ -323,6 +323,18 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 6: The Competition
 
+1. be aware of the competition
+2. can be complementary, not competitive
+3. distinguish your book, don't denigrate other books
+4. refer to approximately six of the most viable competitors
+5. turn your competition into a cross-marketing opportunity
+   1. describe the book
+   2. audience
+   3. strengths and weaknesses
+   4. how does your book fill neglected needs
+
+RTR
+
 ### Section 7: Optional Sections
 
 ### Section 8: Chapter Outline
