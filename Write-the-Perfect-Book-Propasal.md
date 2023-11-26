@@ -302,7 +302,15 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 4: Author Marketing Plan
 
+- how will you promote the book?
+- sequenced list of action points
+  1. send compelling alerts to qualified list of 50,000 email subscribers/customers
+  2. leverage influence with important bloggers
+  3. send comp copies of book to "cultural influencers"
+  4. solicit companies to buy hundreds or thousands of copies for in-house staff distribution
+  5. sell copies at list of appearance events
 
+- **If a publisher can securely see that a certain quantity of books will likely be sold within a measurable period of time, the level of your advance will reflect that confidence.**
 
 ### Section 5: Who Is the Book for (The Market)?
 
