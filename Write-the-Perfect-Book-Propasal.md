@@ -348,7 +348,12 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 9: Sample Chapter(s)
 
+- generate at least one sample chapter to prove you can really write the book
+- writing the sample chapters can be a valuable opportunity to go back and revise other parts of the proposal before it's pitched to agents and editors
+
 ## Chapter 5 - Building your digital footprint and platform from scratch
+
+RTR
 
 ## Chapter 6 - Write the perfect fiction synopsis
 
