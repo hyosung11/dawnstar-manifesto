@@ -314,6 +314,13 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 5: Who Is the Book for (The Market)?
 
+- convince the publisher that one or more sufficiently sized and seeable communities exist for your book
+  - provide sources to prove your case
+  - show off your expertise and don' assume the publisher knows the market
+  - break the market down into identifiable nuggets and explain why your book will appeal to a specific market
+
+- human psychology is a wild card, which is why "sure things" are few and far between
+
 ### Section 6: The Competition
 
 ### Section 7: Optional Sections
