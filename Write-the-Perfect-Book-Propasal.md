@@ -302,7 +302,7 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 4: Author Marketing Plan
 
-RTR
+
 
 ### Section 5: Who Is the Book for (The Market)?
 
