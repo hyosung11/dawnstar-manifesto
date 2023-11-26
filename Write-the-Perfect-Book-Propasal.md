@@ -342,6 +342,10 @@ Yes, but agents and editors will still want to see a proposal.
 
 ### Section 8: Chapter Outline
 
+- often preceded by a Table of Contents (TOC)
+- most nonfiction books have 7 to 10 chapters
+- the outline needs to close the deal from an editorial perspective
+
 ### Section 9: Sample Chapter(s)
 
 ## Chapter 5 - Building your digital footprint and platform from scratch
