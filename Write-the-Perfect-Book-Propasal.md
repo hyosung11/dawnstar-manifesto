@@ -333,9 +333,12 @@ Yes, but agents and editors will still want to see a proposal.
    3. strengths and weaknesses
    4. how does your book fill neglected needs
 
-RTR
-
 ### Section 7: Optional Sections
+
+1. Potential Endorsers/Contributors
+2. Time Needed
+3. Estimated Word Count
+4. Special Format, Packaging, Style, Permission; Illustrations or Photos
 
 ### Section 8: Chapter Outline
 
